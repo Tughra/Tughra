@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tughra&theme=radical)
+ </div>
 ![snake](github-user-contribution.svg)
